@@ -105,7 +105,7 @@ Fill in the json's URL, Cookie and User-Agent to allow the
 	program to run
 
 Usage: `
-	string2 := ` <json location> playlist|series <playlist.m3u8>
+	string2 := ` "C:\Users\Sergio\Documents\GitHub\Recu-Download\config.json"
 
 if "playlist" is used, only the .m3u8 playlist file will be
 	downloaded, specifiying the playlist location will
